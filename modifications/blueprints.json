@@ -1,5 +1,6 @@
 {
   "AFM_Shielded": {
+    "key": "AFM_Shielded",
     "fdname": "AFM_Shielded",
     "grades": {
       "1": {
@@ -80,6 +81,7 @@
     "name": "Shielded"
   },
   "Armour_Advanced": {
+    "key": "Armour_Advanced",
     "fdname": "Armour_Advanced",
     "grades": {
       "1": {
@@ -238,6 +240,7 @@
     "name": "Lightweight"
   },
   "Armour_Explosive": {
+    "key": "Armour_Explosive",
     "fdname": "Armour_Explosive",
     "grades": {
       "1": {
@@ -355,6 +358,7 @@
     "name": "Blast resistant"
   },
   "Armour_HeavyDuty": {
+    "key": "Armour_HeavyDuty",
     "fdname": "Armour_HeavyDuty",
     "grades": {
       "1": {
@@ -513,6 +517,7 @@
     "name": "Heavy duty"
   },
   "Armour_Kinetic": {
+    "key": "Armour_Kinetic",
     "fdname": "Armour_Kinetic",
     "grades": {
       "1": {
@@ -631,6 +636,7 @@
     "name": "Kinetic resistant"
   },
   "Armour_Thermic": {
+    "key": "Armour_Thermic",
     "fdname": "Armour_Thermic",
     "grades": {
       "1": {
@@ -749,6 +755,7 @@
     "name": "Thermal resistant"
   },
   "Misc_LightWeight": {
+    "key": "Misc_LightWeight",
     "fdname": "Misc_LightWeight",
     "grades": {
       "1": {
@@ -856,6 +863,7 @@
     "name": "Lightweight"
   },
   "Misc_Reinforced": {
+    "key": "Misc_Reinforced",
     "fdname": "Misc_Reinforced",
     "grades": {
       "1": {
@@ -963,6 +971,7 @@
     "name": "Reinforced"
   },
   "Misc_Shielded": {
+    "key": "Misc_Shielded",
     "fdname": "Misc_Shielded",
     "grades": {
       "1": {
@@ -1070,6 +1079,7 @@
     "name": "Shielded"
   },
   "Misc_ChaffCapacity": {
+    "key": "Misc_ChaffCapacity",
     "fdname": "Misc_ChaffCapacity",
     "grades": {
       "3": {
@@ -1102,6 +1112,7 @@
     "name": "Ammo capacity"
   },
   "CollectionLimpet_LightWeight": {
+    "key": "CollectionLimpet_LightWeight",
     "fdname": "CollectionLimpet_LightWeight",
     "grades": {
       "1": {
@@ -1199,6 +1210,7 @@
     "name": "Lightweight"
   },
   "CollectionLimpet_Reinforced": {
+    "key": "CollectionLimpet_Reinforced",
     "fdname": "CollectionLimpet_Reinforced",
     "grades": {
       "1": {
@@ -1296,6 +1308,7 @@
     "name": "Reinforced"
   },
   "CollectionLimpet_Shielded": {
+    "key": "CollectionLimpet_Shielded",
     "fdname": "CollectionLimpet_Shielded",
     "grades": {
       "1": {
@@ -1393,6 +1406,7 @@
     "name": "Shielded"
   },
   "Engine_Dirty": {
+    "key": "Engine_Dirty",
     "fdname": "Engine_Dirty",
     "grades": {
       "1": {
@@ -1551,6 +1565,7 @@
     "name": "Dirty"
   },
   "Engine_Reinforced": {
+    "key": "Engine_Reinforced",
     "fdname": "Engine_Reinforced",
     "grades": {
       "1": {
@@ -1669,6 +1684,7 @@
     "name": "Reinforced"
   },
   "Engine_Tuned": {
+    "key": "Engine_Tuned",
     "fdname": "Engine_Tuned",
     "grades": {
       "1": {
@@ -1819,6 +1835,7 @@
     "name": "Clean"
   },
   "FSD_FastBoot": {
+    "key": "FSD_FastBoot",
     "fdname": "FSD_FastBoot",
     "grades": {
       "1": {
@@ -1957,6 +1974,7 @@
     "name": "Faster boot sequence"
   },
   "FSD_LongRange": {
+    "key": "FSD_LongRange",
     "fdname": "FSD_LongRange",
     "grades": {
       "1": {
@@ -2095,6 +2113,7 @@
     "name": "Increased range"
   },
   "FSD_Shielded": {
+    "key": "FSD_Shielded",
     "fdname": "FSD_Shielded",
     "grades": {
       "1": {
@@ -2233,6 +2252,7 @@
     "name": "Shielded"
   },
   "FSDinterdictor_Expanded": {
+    "key": "FSDinterdictor_Expanded",
     "fdname": "FSDinterdictor_Expanded",
     "grades": {
       "1": {
@@ -2329,6 +2349,7 @@
     "name": "Expanded capture arc"
   },
   "FSDinterdictor_LongRange": {
+    "key": "FSDinterdictor_LongRange",
     "fdname": "FSDinterdictor_LongRange",
     "grades": {
       "1": {
@@ -2441,6 +2462,7 @@
     "name": "Long range"
   },
   "FuelScoop_Shielded": {
+    "key": "FuelScoop_Shielded",
     "fdname": "FuelScoop_Shielded",
     "grades": {
       "1": {
@@ -2520,6 +2542,7 @@
     "name": "Shielded"
   },
   "FuelTransferLimpet_LightWeight": {
+    "key": "FuelTransferLimpet_LightWeight",
     "fdname": "FuelTransferLimpet_LightWeight",
     "grades": {
       "1": {
@@ -2617,6 +2640,7 @@
     "name": "Lightweight"
   },
   "FuelTransferLimpet_Reinforced": {
+    "key": "FuelTransferLimpet_Reinforced",
     "fdname": "FuelTransferLimpet_Reinforced",
     "grades": {
       "1": {
@@ -2714,6 +2738,7 @@
     "name": "Reinforced"
   },
   "FuelTransferLimpet_Shielded": {
+    "key": "FuelTransferLimpet_Shielded",
     "fdname": "FuelTransferLimpet_Shielded",
     "grades": {
       "1": {
@@ -2811,6 +2836,7 @@
     "name": "Shielded"
   },
   "HatchBreakerLimpet_LightWeight": {
+    "key": "HatchBreakerLimpet_LightWeight",
     "fdname": "HatchBreakerLimpet_LightWeight",
     "grades": {
       "1": {
@@ -2908,6 +2934,7 @@
     "name": "Lightweight"
   },
   "HatchBreakerLimpet_Reinforced": {
+    "key": "HatchBreakerLimpet_Reinforced",
     "fdname": "HatchBreakerLimpet_Reinforced",
     "grades": {
       "1": {
@@ -3005,6 +3032,7 @@
     "name": "Reinforced"
   },
   "HatchBreakerLimpet_Shielded": {
+    "key": "HatchBreakerLimpet_Shielded",
     "fdname": "HatchBreakerLimpet_Shielded",
     "grades": {
       "1": {
@@ -3102,6 +3130,7 @@
     "name": "Shielded"
   },
   "Misc_HeatSinkCapacity": {
+    "key": "Misc_HeatSinkCapacity",
     "fdname": "Misc_HeatSinkCapacity",
     "grades": {
       "3": {
@@ -3134,6 +3163,7 @@
     "name": "Ammo capacity"
   },
   "HullReinforcement_Advanced": {
+    "key": "HullReinforcement_Advanced",
     "fdname": "HullReinforcement_Advanced",
     "grades": {
       "1": {
@@ -3253,6 +3283,7 @@
     "name": "Lightweight"
   },
   "HullReinforcement_Explosive": {
+    "key": "HullReinforcement_Explosive",
     "fdname": "HullReinforcement_Explosive",
     "grades": {
       "1": {
@@ -3392,6 +3423,7 @@
     "name": "Blast resistant"
   },
   "HullReinforcement_HeavyDuty": {
+    "key": "HullReinforcement_HeavyDuty",
     "fdname": "HullReinforcement_HeavyDuty",
     "grades": {
       "1": {
@@ -3551,6 +3583,7 @@
     "name": "Heavy duty"
   },
   "HullReinforcement_Kinetic": {
+    "key": "HullReinforcement_Kinetic",
     "fdname": "HullReinforcement_Kinetic",
     "grades": {
       "1": {
@@ -3690,6 +3723,7 @@
     "name": "Kinetic resistant"
   },
   "HullReinforcement_Thermic": {
+    "key": "HullReinforcement_Thermic",
     "fdname": "HullReinforcement_Thermic",
     "grades": {
       "1": {
@@ -3829,6 +3863,7 @@
     "name": "Thermal resistant"
   },
   "LifeSupport_LightWeight": {
+    "key": "LifeSupport_LightWeight",
     "fdname": "LifeSupport_LightWeight",
     "grades": {
       "1": {
@@ -3926,6 +3961,7 @@
     "name": "Lightweight"
   },
   "LifeSupport_Reinforced": {
+    "key": "LifeSupport_Reinforced",
     "fdname": "LifeSupport_Reinforced",
     "grades": {
       "1": {
@@ -4023,6 +4059,7 @@
     "name": "Reinforced"
   },
   "LifeSupport_Shielded": {
+    "key": "LifeSupport_Shielded",
     "fdname": "LifeSupport_Shielded",
     "grades": {
       "1": {
@@ -4120,6 +4157,7 @@
     "name": "Shielded"
   },
   "Misc_PointDefenseCapacity": {
+    "key": "Misc_PointDefenseCapacity",
     "fdname": "Misc_PointDefenseCapacity",
     "grades": {
       "3": {
@@ -4152,6 +4190,7 @@
     "name": "Ammo capacity"
   },
   "PowerDistributor_HighCapacity": {
+    "key": "PowerDistributor_HighCapacity",
     "fdname": "PowerDistributor_HighCapacity",
     "grades": {
       "1": {
@@ -4350,6 +4389,7 @@
     "name": "High charge capacity"
   },
   "PowerDistributor_HighFrequency": {
+    "key": "PowerDistributor_HighFrequency",
     "fdname": "PowerDistributor_HighFrequency",
     "grades": {
       "1": {
@@ -4528,6 +4568,7 @@
     "name": "Charge enhanced"
   },
   "PowerDistributor_PriorityEngines": {
+    "key": "PowerDistributor_PriorityEngines",
     "fdname": "PowerDistributor_PriorityEngines",
     "grades": {
       "1": {
@@ -4706,6 +4747,7 @@
     "name": "Engine focused"
   },
   "PowerDistributor_PrioritySystems": {
+    "key": "PowerDistributor_PrioritySystems",
     "fdname": "PowerDistributor_PrioritySystems",
     "grades": {
       "1": {
@@ -4884,6 +4926,7 @@
     "name": "System focused"
   },
   "PowerDistributor_PriorityWeapons": {
+    "key": "PowerDistributor_PriorityWeapons",
     "fdname": "PowerDistributor_PriorityWeapons",
     "grades": {
       "1": {
@@ -5062,6 +5105,7 @@
     "name": "Weapon focused"
   },
   "PowerDistributor_Shielded": {
+    "key": "PowerDistributor_Shielded",
     "fdname": "PowerDistributor_Shielded",
     "grades": {
       "1": {
@@ -5180,6 +5224,7 @@
     "name": "Shielded"
   },
   "PowerPlant_Armoured": {
+    "key": "PowerPlant_Armoured",
     "fdname": "PowerPlant_Armoured",
     "grades": {
       "1": {
@@ -5317,6 +5362,7 @@
     "name": "Armoured"
   },
   "PowerPlant_Boosted": {
+    "key": "PowerPlant_Boosted",
     "fdname": "PowerPlant_Boosted",
     "grades": {
       "1": {
@@ -5434,6 +5480,7 @@
     "name": "Overcharged"
   },
   "PowerPlant_Stealth": {
+    "key": "PowerPlant_Stealth",
     "fdname": "PowerPlant_Stealth",
     "grades": {
       "1": {
@@ -5551,6 +5598,7 @@
     "name": "Low emissions"
   },
   "ProspectingLimpet_LightWeight": {
+    "key": "ProspectingLimpet_LightWeight",
     "fdname": "ProspectingLimpet_LightWeight",
     "grades": {
       "1": {
@@ -5648,6 +5696,7 @@
     "name": "Lightweight"
   },
   "ProspectingLimpet_Reinforced": {
+    "key": "ProspectingLimpet_Reinforced",
     "fdname": "ProspectingLimpet_Reinforced",
     "grades": {
       "1": {
@@ -5745,6 +5794,7 @@
     "name": "Reinforced"
   },
   "ProspectingLimpet_Shielded": {
+    "key": "ProspectingLimpet_Shielded",
     "fdname": "ProspectingLimpet_Shielded",
     "grades": {
       "1": {
@@ -5842,6 +5892,7 @@
     "name": "Shielded"
   },
   "Refineries_Shielded": {
+    "key": "Refineries_Shielded",
     "fdname": "Refineries_Shielded",
     "grades": {
       "1": {
@@ -5921,6 +5972,7 @@
     "name": "Shielded"
   },
   "Sensor_FastScan": {
+    "key": "Sensor_FastScan",
     "fdname": "Sensor_FastScan",
     "grades": {
       "1": {
@@ -6043,7 +6095,8 @@
     "name": "Fast scan"
   },
   "Scanner_LongRange": {
-    "fdname": "Scanner_LongRange",
+    "key": "Scanner_LongRange",
+    "fdname": "Sensor_LongRange",
     "grades": {
       "1": {
         "components": {
@@ -6165,7 +6218,8 @@
     "name": "Long range"
   },
   "Scanner_WideAngle": {
-    "fdname": "Scanner_WideAngle",
+    "key": "Scanner_WideAngle",
+    "fdname": "Sensor_WideAngle",
     "grades": {
       "1": {
         "components": {
@@ -6287,6 +6341,7 @@
     "name": "Wide angle"
   },
   "Sensor_LightWeight": {
+    "key": "Sensor_LightWeight",
     "fdname": "Sensor_LightWeight",
     "grades": {
       "1": {
@@ -6404,6 +6459,7 @@
     "name": "Lightweight"
   },
   "Sensor_LongRange": {
+    "key": "Sensor_LongRange",
     "fdname": "Sensor_LongRange",
     "grades": {
       "1": {
@@ -6521,6 +6577,7 @@
     "name": "Long range"
   },
   "Sensor_WideAngle": {
+    "key": "Sensor_WideAngle",
     "fdname": "Sensor_WideAngle",
     "grades": {
       "1": {
@@ -6638,6 +6695,7 @@
     "name": "Wide angle"
   },
   "Sensor_Expanded": {
+    "key": "Sensor_Expanded",
     "fdname": "Sensor_Expanded",
     "grades": {
       "1": {
@@ -6736,6 +6794,7 @@
     "name": "Expanded Probe Scanning Radius"
   },
   "ShieldBooster_Explosive": {
+    "key": "ShieldBooster_Explosive",
     "fdname": "ShieldBooster_Explosive",
     "grades": {
       "1": {
@@ -6853,6 +6912,7 @@
     "name": "Blast resistant"
   },
   "ShieldBooster_HeavyDuty": {
+    "key": "ShieldBooster_HeavyDuty",
     "fdname": "ShieldBooster_HeavyDuty",
     "grades": {
       "1": {
@@ -6990,6 +7050,7 @@
     "name": "Heavy duty"
   },
   "ShieldBooster_Kinetic": {
+    "key": "ShieldBooster_Kinetic",
     "fdname": "ShieldBooster_Kinetic",
     "grades": {
       "1": {
@@ -7107,6 +7168,7 @@
     "name": "Kinetic resistant"
   },
   "ShieldBooster_Resistive": {
+    "key": "ShieldBooster_Resistive",
     "fdname": "ShieldBooster_Resistive",
     "grades": {
       "1": {
@@ -7264,6 +7326,7 @@
     "name": "Resistance augmented"
   },
   "ShieldBooster_Thermic": {
+    "key": "ShieldBooster_Thermic",
     "fdname": "ShieldBooster_Thermic",
     "grades": {
       "1": {
@@ -7381,6 +7444,7 @@
     "name": "Thermal resistant"
   },
   "ShieldCellBank_Rapid": {
+    "key": "ShieldCellBank_Rapid",
     "fdname": "ShieldCellBank_Rapid",
     "grades": {
       "1": {
@@ -7493,6 +7557,7 @@
     "name": "Rapid charge"
   },
   "ShieldCellBank_Specialised": {
+    "key": "ShieldCellBank_Specialised",
     "fdname": "ShieldCellBank_Specialised",
     "grades": {
       "1": {
@@ -7621,6 +7686,7 @@
     "name": "Specialised"
   },
   "ShieldGenerator_Kinetic": {
+    "key": "ShieldGenerator_Kinetic",
     "fdname": "ShieldGenerator_Kinetic",
     "grades": {
       "1": {
@@ -7739,6 +7805,7 @@
     "name": "Kinetic resistant"
   },
   "ShieldGenerator_Optimised": {
+    "key": "ShieldGenerator_Optimised",
     "fdname": "ShieldGenerator_Optimised",
     "grades": {
       "1": {
@@ -7897,6 +7964,7 @@
     "name": "Enhanced low power"
   },
   "ShieldGenerator_Reinforced": {
+    "key": "ShieldGenerator_Reinforced",
     "fdname": "ShieldGenerator_Reinforced",
     "grades": {
       "1": {
@@ -8075,6 +8143,7 @@
     "name": "Reinforced"
   },
   "ShieldGenerator_Thermic": {
+    "key": "ShieldGenerator_Thermic",
     "fdname": "ShieldGenerator_Thermic",
     "grades": {
       "1": {
@@ -8193,6 +8262,7 @@
     "name": "Thermal resistant"
   },
   "Weapon_DoubleShot": {
+    "key": "Weapon_DoubleShot",
     "fdname": "Weapon_DoubleShot",
     "grades": {
       "1": {
@@ -8330,6 +8400,7 @@
     "name": "Double shot"
   },
   "Weapon_Efficient": {
+    "key": "Weapon_Efficient",
     "fdname": "Weapon_Efficient",
     "grades": {
       "1": {
@@ -8459,6 +8530,7 @@
     "name": "Efficient"
   },
   "Weapon_Focused": {
+    "key": "Weapon_Focused",
     "fdname": "Weapon_Focused",
     "grades": {
       "1": {
@@ -8616,6 +8688,7 @@
     "name": "Focused"
   },
   "Weapon_HighCapacity": {
+    "key": "Weapon_HighCapacity",
     "fdname": "Weapon_HighCapacity",
     "grades": {
       "1": {
@@ -8773,6 +8846,7 @@
     "name": "High capacity"
   },
   "Weapon_LightWeight": {
+    "key": "Weapon_LightWeight",
     "fdname": "Weapon_LightWeight",
     "grades": {
       "1": {
@@ -8902,6 +8976,7 @@
     "name": "Lightweight"
   },
   "Weapon_LongRange": {
+    "key": "Weapon_LongRange",
     "fdname": "Weapon_LongRange",
     "grades": {
       "1": {
@@ -9059,7 +9134,8 @@
     "name": "Long range"
   },
   "MC_Overcharged": {
-    "fdname": "MC_Overcharged",
+    "key": "MC_Overcharged",
+    "fdname": "Weapon_Overcharged",
     "grades": {
       "1": {
         "components": {
@@ -9196,6 +9272,7 @@
     "name": "Overcharged"
   },
   "Weapon_Overcharged": {
+    "key": "Weapon_Overcharged",
     "fdname": "Weapon_Overcharged",
     "grades": {
       "1": {
@@ -9313,6 +9390,7 @@
     "name": "Overcharged"
   },
   "Weapon_RapidFire": {
+    "key": "Weapon_RapidFire",
     "fdname": "Weapon_RapidFire",
     "grades": {
       "1": {
@@ -9466,6 +9544,7 @@
     "name": "Rapid fire"
   },
   "Weapon_ShortRange": {
+    "key": "Weapon_ShortRange",
     "fdname": "Weapon_ShortRange",
     "grades": {
       "1": {
@@ -9579,6 +9658,7 @@
     "name": "Short range"
   },
   "Weapon_Sturdy": {
+    "key": "Weapon_Sturdy",
     "fdname": "Weapon_Sturdy",
     "grades": {
       "1": {
