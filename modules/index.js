@@ -7,7 +7,6 @@ module.exports = {
     pd: require('./standard/power_distributor').pd,
     s: require('./standard/sensors').s,
     ft: require('./standard/fuel_tank').ft,
-    pas: require('./standard/planetary_approach_suite').pas
   },
   hardpoints: {
     pl: require('./hardpoints/pulse_laser').pl,
