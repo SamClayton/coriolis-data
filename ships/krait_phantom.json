@@ -15,12 +15,13 @@
       "baseArmour": 180,
       "hardness": 60,
       "hullMass": 270,
-      "masslock": 17,
+      "masslock": 14,
       "pipSpeed": 0.09,
       "pitch": 26,
       "roll": 90,
       "yaw": 10,
-      "crew": 2
+      "crew": 2,
+      "reserveFuelCapacity": 0.63
     },
     "retailCost": 37472254,
     "bulkheads": [
