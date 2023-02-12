@@ -418,7 +418,6 @@
       "special_thermal_vent",
       "special_weapon_damage",
       "special_weapon_efficient",
-      "special_weapon_rateoffire",
       "special_weapon_toughened",
       "special_weapon_lightweight"
     ]
@@ -1767,24 +1766,33 @@
             "engineers": [
               "Colonel Bris Dekker",
               "Felicity Farseer",
-              "Tiana Fortune"
+              "Tiana Fortune",
+              "Mel Brandon"
             ]
           },
           "2": {
             "engineers": [
               "Colonel Bris Dekker",
-              "Tiana Fortune"
+              "Tiana Fortune",
+              "Mel Brandon"
             ]
           },
           "3": {
             "engineers": [
               "Colonel Bris Dekker",
-              "Tiana Fortune"
+              "Tiana Fortune",
+              "Mel Brandon"
             ]
           },
           "4": {
             "engineers": [
-              "Colonel Bris Dekker"
+              "Colonel Bris Dekker",
+              "Mel Brandon"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Mel Brandon"
             ]
           }
         }
@@ -1795,24 +1803,33 @@
             "engineers": [
               "Colonel Bris Dekker",
               "Felicity Farseer",
-              "Tiana Fortune"
+              "Tiana Fortune",
+              "Mel Brandon"
             ]
           },
           "2": {
             "engineers": [
               "Colonel Bris Dekker",
-              "Tiana Fortune"
+              "Tiana Fortune",
+              "Mel Brandon"
             ]
           },
           "3": {
             "engineers": [
               "Colonel Bris Dekker",
-              "Tiana Fortune"
+              "Tiana Fortune",
+              "Mel Brandon"
             ]
           },
           "4": {
             "engineers": [
-              "Colonel Bris Dekker"
+              "Colonel Bris Dekker",
+              "Mel Brandon"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Mel Brandon"
             ]
           }
         }
@@ -3368,7 +3385,6 @@
       "special_emissive_munitions",
       "special_fsd_interrupt",
       "special_overload_munitions",
-      "special_penetrator_payload",
       "special_thermal_cascade",
       "special_weapon_damage",
       "special_weapon_efficient",
@@ -6118,7 +6134,6 @@
       "special_weapon_rateoffire",
       "special_weapon_toughened",
       "special_weapon_lightweight",
-      "special_deep_cut_payload",
       "special_mass_lock"
     ]
   },
